@@ -128,26 +128,6 @@ Le projet utilise Firebase pour :
 
 ---
 
-## 👨‍💻 Auteur
-
-**Donatien Emmanuel**
-
-Développeur Web Full Stack
-
-### Compétences
-
-- React.js
-- JavaScript
-- Firebase
-- Laravel
-- PHP
-- CSS
-- Bootstrap
-- Tailwind CSS
-- MySQL
-
----
-
 ## 📄 Licence
 
 Ce projet est distribué à des fins éducatives et de démonstration.
